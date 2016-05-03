@@ -1,0 +1,28 @@
+body {
+    display: block;
+}
+.header {
+    padding-top: 100px;
+    height: 300px;
+    text-align: center;
+}
+.stats {
+    width: 100%;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+.currentEmp {
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+.addEmp {
+    width: 50%;
+    text-align: left;
+    float: left;
+}
+span {
+    margin: 2px;
+}
